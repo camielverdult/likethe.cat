@@ -1,0 +1,7 @@
+:root {
+    --font-body: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: var(--font-body);
+}
